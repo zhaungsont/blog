@@ -1,11 +1,7 @@
 ---
-title: "Sample Blog 0219"
+title: "How I Designed the World's Worst App"
 date: 2024-02-19
 category: "TypeScript"
 ---
 
-## 20199999
-yooooooooooooo
-yooooooooooooo
-yooooooooooooo
-yooooooooooooo
+When I was a kid, I used to eat bananas.
